@@ -1,4 +1,4 @@
-# Individual Project 3: Cloud-based Big Data Systems Project
+# Cloud-based Big Data Systems Project
 
 ## Objectvices of Project
 
